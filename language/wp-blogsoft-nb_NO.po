@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Connect to Blogsoft"
+msgstr "Koble til blogsoft"
+
+msgid "Settings updated"
+msgstr "Innstillingene er oppdatert"
+
+msgid ""
+"uses OAuth authentication to connect to Blogsoft. Follow the authentication "
+"process below to authorise this Plugin to access on your Blogsoft account."
+msgstr ""
+"Koble til blogsoft bruker OAuth-autentisering for å koble til blogsoft. Gå "
+"gjennom prosessen under for å gi denne utvidelsen tilgang til din blogg.no-"
+"konto."
+
+msgid "Authorise"
+msgstr "Tillat"
+
+msgid "Blog URL"
+msgstr "Blogg URL"
+
+msgid "Your account has  been authorized."
+msgstr "Din konto er nå autorisert"
+
+msgid "Are you sure you want to deauthorize your Blogsoft account?"
+msgstr "Er du sikker på at du vil avslutte tilkoblingen til blogsoft-kontoen?"
+
+msgid "Deauthorize"
+msgstr "Trekk tilbake autentisering"
+
+msgid "Basic Settings"
+msgstr "Grunnleggende innstillinger"
+
+msgid "Publish in blogsoft when a post is published/edited"
+msgstr "Publisér også i blogsoft når en bloggpost publiseres/redigeres"
+
+msgid "I want search engines credits goes to blogsoft"
+msgstr "Jeg vil at søkemotorer benytter blogg.no-urlen"
+
+msgid "Default Category"
+msgstr "Forhåndsvalgt kategori "
+
+msgid "Category Mapping:"
+msgstr "Kategorikoblinger:"
+
+msgid "Select Blogsoft Category"
+msgstr "Velg blogsoft-kategori"
+
+msgid "Share your article in Blogg.no"
+msgstr "Publisér innlegget på blogg.no"
+
+msgid "View Article"
+msgstr "Vis innlegg"
+
+msgid "Basic Settings and Connect"
+msgstr "Grunnleggende innstillinger og tilkobling"
+
+msgid "App ID is missing"
+msgstr "App ID mangler"
+
+msgid "App Secret is missing"
+msgstr "App Secret mangler"
+
+msgid "Successfully published in blogsoft."
+msgstr "Innlegget er publisert på blogg.no."
+
+msgid "View post"
+msgstr "Se innlegget"
+
+msgid "Successfully drafted in blogsoft."
+msgstr "Lagret som utkast i blogsoft"
+
+msgid "Successfully removed from blogsoft"
+msgstr "Fjernet fra blogsoft"
+
+msgid ""
+"You deleted Wordpress app from your blogsoft account. You have to authorize "
+"your blogsoft account again to publish article to your blogg.no blog"
+msgstr ""
+"Du har slettet Wordpressappen fra din blogsoft-konto. For å dele innlegg "
+"til din blogg.no-blogg må du autorisere appen på nytt."
+
+msgid ""
+"Authentication failed!. You have to authorize your blogsoft account again to "
+"publish article in your blogg.no blog. Please"
+msgstr ""
+"Autentiseringen feilet. Du må autorisere din blogsoft-konto på nytt for å "
+"dele innlegg til din blogg på blogg.no."
+
+msgid "click"
+msgstr "Klikk"
+
+msgid "here"
+msgstr "her for å autentisere"
+
+msgid "Publish in blogsoft"
+msgstr "Publisér i blogsoft"
+
+msgid "Add Rule"
+msgstr "Legg til regel"
+
+msgid "Save all options"
+msgstr "Lagre endringer "

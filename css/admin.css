@@ -1,0 +1,111 @@
+.tab_legen { font-size: 11px; margin-top: -20px  }
+
+
+#space { margin-right: 20px }
+.long {width: 270px;}
+
+.blogsoft-left-content {
+	width: 38%;
+	float: left;
+	padding-right: 0;
+	margin-top: 10px;
+	position: relative;
+}
+
+.blogsoft-right-content {
+	width: 53%;
+	float: left;
+	margin-left: 3%;
+	border-left: 1px solid #e6e6e6;
+	margin-bottom: -10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-top: 15px;
+  }
+
+ .blogsoft-right-content p, .blogsoft-left-content p {
+	margin-top: 0;
+}
+
+
+hr.sep {
+border-bottom: 1px solid #e6e6e6; border-top: none; border-left: none; border-right: none; width: 100%;
+ margin: 20px 0 15px 0;
+ }
+
+
+/*.blogsoft-clear {
+	clear: both;
+}
+*/
+
+.button_submit { text-align: center }
+.button_reset  { float: left; margin-left: 0; margin-top: -25px }
+
+
+.list-group {
+    margin-bottom: 20px;
+    padding-left: 0;
+}
+.list-group-item {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    display: block;
+    margin-bottom: -1px;
+    padding: 10px 15px;
+    position: relative;
+}
+.list-group-item:first-child {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+.list-group-item:last-child {
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    margin-bottom: 0;
+}
+.list-group-item > .badge {
+    float: right;
+}
+.list-group-item > .badge + .badge {
+    margin-right: 5px;
+}
+a.list-group-item {
+    color: #555555;
+}
+a.list-group-item .list-group-item-heading {
+    color: #333333;
+}
+a.list-group-item:hover, a.list-group-item:focus {
+    background-color: #f5f5f5;
+    text-decoration: none;
+}
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
+    background-color: #428bca;
+    border-color: #428bca;
+    color: #ffffff;
+    z-index: 2;
+}
+.list-group-item.active .list-group-item-heading, .list-group-item.active:hover .list-group-item-heading, .list-group-item.active:focus .list-group-item-heading {
+    color: inherit;
+}
+.list-group-item.active .list-group-item-text, .list-group-item.active:hover .list-group-item-text, .list-group-item.active:focus .list-group-item-text {
+    color: #e1edf7;
+}
+.list-group-item-heading {
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+.list-group-item-text {
+    line-height: 1.3;
+    margin-bottom: 0;
+}
+
+
+.blogsoft_active {
+    display: none;
+}
+
+.blogsoft-logo {
+    width: 19px;
+}
