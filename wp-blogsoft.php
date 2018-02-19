@@ -49,7 +49,7 @@ class WP_Blogsoft
         add_action("untrash_post", array($this, 'blogsoft_article_published'));
 
         add_action('add_meta_boxes', array($this, 'add_meta_box'));
-        add_action('save_post', array($this, 'save'));
+        //add_action('save_post', array($this, 'save'));
 
         // front-end actions
         add_action('wp_head', array($this, 'add_canonical_link'), 1);

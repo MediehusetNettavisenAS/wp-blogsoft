@@ -96,7 +96,7 @@ if (isset($_POST['blogsoft_update_settings'])) {
                                 <!-- left content -->
                                 <div class="blogsoft-left-content">
                                     <p><input type="checkbox" class="check" id="publish_in_blogsoft"
-                                              name="publish_in_blogsoft"<?php if ($settings['publish_in_blogsoft']) echo ' checked'; ?> />
+                                              name="publish_in_blogsoft"<?php if (array_key_exists ('publish_in_blogsoft' ,$settings) && $settings['publish_in_blogsoft']) echo ' checked'; ?> />
                                         <strong><?php _e('Publish in blogsoft when a post is published/edited', $this->hook); ?></strong>
                                     </p>
                                 </div>
@@ -159,7 +159,7 @@ if (isset($_POST['blogsoft_update_settings'])) {
                                     ?>
                                     <ul id="blogsoftRules">
                                          <?php
-                                            if(sizeof($blognoRules)) {
+                                            if(is_array($blognoRules) && sizeof($blognoRules)) {
                                                 foreach($blognoRules as $wp_cat => $bs_cat) {
                                          ?>
                                                     <li class="list-group-item">
